@@ -1,7 +1,0 @@
-Hi All,
-
-From 19 August, 2024 I will be embarking on a new journey of learning DSA from starch. I will cover topics like Arrays, Link list,  Stack, Queue, Trees ands Graphs.
-
-Thanks,
-Mahi Yadav
-BCA Student
