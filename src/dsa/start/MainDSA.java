@@ -1,19 +1,19 @@
 package dsa.start;
 
 //import Arrays.ArrayInput;
-import Arrays.ReverseArray;
+import Arrays.sorting01;
 public class MainDSA {
 
 	public static void main(String[] args) {
-		ReverseArray arrayObj = new ReverseArray();
+       sorting01 arrayObj = new sorting01();
 		 int[] arr = arrayObj.input();
 	        
 	        System.out.println("Original Array:");
 	        arrayObj.printArray(arr);
 	        
-	        arrayObj.reverseArray(arr);
+	        arrayObj.sort_zero_one(arr);
 	        
-	        System.out.println("Reversed Array:");
+	        System.out.println(" sorted Array:");
 	        arrayObj.printArray(arr);
 	}
 
